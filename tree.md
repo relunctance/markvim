@@ -1,8 +1,9 @@
 # markdown - vim
 # vimium -Chrome
 # vim 基础 
-	-  vim 基础环境搭建
+	*  vim 基础环境搭建
 # vim 组件
+    * bundle插件管理 
 # vim 开发环境配置
 	* vim-golang
 	* vim-html
