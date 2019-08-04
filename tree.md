@@ -4,8 +4,12 @@
 	*  vim 基础环境搭建
 # vim 组件
     * bundle插件管理 
+        * BundleInstall
 # vim 开发环境配置
 	* vim-golang
+        * vim-go安装
+        * vim-godef安装
+        * GoInstallBinaries二进制安装
 	* vim-html
 	* vim-javascript
 	* vim-markdown
